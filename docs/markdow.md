@@ -51,7 +51,7 @@ body{
 
 | A   | B       |  C        |
 |----:|:-------:|---------:|
-|Nagy |Lajos    |fotós      |
+|Nagy |Lajos    |fós      |
 |Kis  |Annamária|sportoló   |
 
 
